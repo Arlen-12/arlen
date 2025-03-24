@@ -1,0 +1,35 @@
+<center><h1>Mi Familia</h1> </center>
+<head>
+  
+    <title>Mi Familia</title>
+</head>
+<body>
+    <h1>Mi Familia</h1>
+<p> Mi familia está formada por personas muy importantes para mí. Alfredo Valencia, de 30 años, es mi hermano y siempre ha sido un gran apoyo en mi vida. Violeta Vásquez, con 49 años, es mi mamá, quien nos brinda su amor y sabiduría en cada momento. Emily y Eimy Vásquez, ambas de 27 años, son mis hermanas, con quienes comparto una conexión especial y una relación muy cercana. Julio Estrada, de 48 años, es mi papá, una figura fundamental en nuestro hogar y siempre presente para guiarnos. </p>
+    <ul>
+        <li><strong>Hermano:</strong> Alfredo Valencia, 30 años. Teléfono: +52 641 321 1948</li>
+        <li><strong>Mamá:</strong> Violeta Vásquez, 49 años. Teléfono:+52 641 327 395</li>
+        <li><strong>Hermana:</strong> Emily Vásquez, 27 años. Teléfono:+52 662 316 4941</li>
+        <li><strong>Hermana:</strong> Eimy Vásquez, 27 años. Teléfono: +52 641 326 1614</li>
+        <li><strong>Papá:</strong> Julio Estrada, 48 años. Teléfono: +52 641 102 7526</li>
+    </ul>
+</body>
+</html>
+<center>
+  <table border="1" style="border-collapse: collapse; text-align: center;">
+    <tr>
+      <td colspan="2"><img src="9.jpg" width="400" height="500" style="transform: rotate(-90deg);"></td>
+    </tr>
+    <tr>
+      <td><img src="6.jpg" width="300" height="300"></td>
+      <td><img src="7.jpg" width="250" height="300" style="transform: rotate(-90deg);"></td>
+    </tr>
+    <tr>
+      <td><img src="2.jpg" width="300" height="300" ></td>
+      <td><img src="5.jpg" width="300" height="300" style="transform: rotate(-90deg);"></td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="8.jpg" width="400" height="550"></td>
+    </tr>
+  </table>
+</center>
